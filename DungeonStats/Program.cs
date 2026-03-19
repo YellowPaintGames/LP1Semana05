@@ -1,12 +1,21 @@
 ﻿using System;
+using Spectre.Console;
 namespace DungeonStats
 {
     public class Program
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine(CriticalHit(Damage(8, 4)));
-            Console.WriteLine(Damage(8, 4));
+            var dmg = 10;
+            var def = 3;
+            var table = new Table();
+            table.Border(TableBorder.Rounded);
+            table.AddColumn("Operation");
+            table.AddColumn("Damage(" + dmg + ")");
+            table.AddColumn("Damage(" + dmg + "," + def + ")");
+            table.AddColumn("CriticalHit(" + Damage(dmg, def) + ")");
+            table.AddRow("Result", Damage(dmg));
+            AnsiConsole.Write(table);
         }
         private static int Damage(int attack, int defense)
         {
@@ -26,8 +35,9 @@ namespace DungeonStats
             }
             else
             {
+                int D = damage + Damage(10, 3);
                 CriticalHit(damage - 1);
-                return damage + 1;
+                return D;
             }
         }
     }
