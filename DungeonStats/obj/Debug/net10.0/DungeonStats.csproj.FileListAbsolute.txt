@@ -1,0 +1,15 @@
+C:\Users\kikoc\Documents\FPpasta\LPpasta\LPSemana05\DungeonStats\bin\Debug\net10.0\DungeonStats.exe
+C:\Users\kikoc\Documents\FPpasta\LPpasta\LPSemana05\DungeonStats\bin\Debug\net10.0\DungeonStats.deps.json
+C:\Users\kikoc\Documents\FPpasta\LPpasta\LPSemana05\DungeonStats\bin\Debug\net10.0\DungeonStats.runtimeconfig.json
+C:\Users\kikoc\Documents\FPpasta\LPpasta\LPSemana05\DungeonStats\bin\Debug\net10.0\DungeonStats.dll
+C:\Users\kikoc\Documents\FPpasta\LPpasta\LPSemana05\DungeonStats\bin\Debug\net10.0\DungeonStats.pdb
+C:\Users\kikoc\Documents\FPpasta\LPpasta\LPSemana05\DungeonStats\obj\Debug\net10.0\DungeonStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kikoc\Documents\FPpasta\LPpasta\LPSemana05\DungeonStats\obj\Debug\net10.0\DungeonStats.AssemblyInfoInputs.cache
+C:\Users\kikoc\Documents\FPpasta\LPpasta\LPSemana05\DungeonStats\obj\Debug\net10.0\DungeonStats.AssemblyInfo.cs
+C:\Users\kikoc\Documents\FPpasta\LPpasta\LPSemana05\DungeonStats\obj\Debug\net10.0\DungeonStats.csproj.CoreCompileInputs.cache
+C:\Users\kikoc\Documents\FPpasta\LPpasta\LPSemana05\DungeonStats\obj\Debug\net10.0\DungeonStats.sourcelink.json
+C:\Users\kikoc\Documents\FPpasta\LPpasta\LPSemana05\DungeonStats\obj\Debug\net10.0\DungeonStats.dll
+C:\Users\kikoc\Documents\FPpasta\LPpasta\LPSemana05\DungeonStats\obj\Debug\net10.0\refint\DungeonStats.dll
+C:\Users\kikoc\Documents\FPpasta\LPpasta\LPSemana05\DungeonStats\obj\Debug\net10.0\DungeonStats.pdb
+C:\Users\kikoc\Documents\FPpasta\LPpasta\LPSemana05\DungeonStats\obj\Debug\net10.0\DungeonStats.genruntimeconfig.cache
+C:\Users\kikoc\Documents\FPpasta\LPpasta\LPSemana05\DungeonStats\obj\Debug\net10.0\ref\DungeonStats.dll
